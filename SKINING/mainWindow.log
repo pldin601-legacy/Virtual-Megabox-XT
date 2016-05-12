@@ -1,0 +1,174 @@
+Line 58: Class vmbxt401.cSysTray of control cSysTray was not a loaded control class.
+Line 110: Class vmbxt401.MTrack of control tmtLen was not a loaded control class.
+Line 119: Class vmbxt401.MTrack of control tmtPos was not a loaded control class.
+Line 128: Class vmbxt401.MTimer of control tmLen was not a loaded control class.
+Line 136: Class vmbxt401.MTimer of control tmPos was not a loaded control class.
+Line 144: Class vmbxt401.MTimer of control tmClock was not a loaded control class.
+Line 465: Class vmbxt401.QSButton of control tubMeters was not a loaded control class.
+Line 484: Class vmbxt401.VU of control VU1 was not a loaded control class.
+Line 493: Class vmbxt401.VUMG of control VUMG1 was not a loaded control class.
+Line 514: Class vmbxt401.VUMG of control VUMG1 was not a loaded control class.
+Line 570: Class vmbxt401.QSButton of control btnExplore was not a loaded control class.
+Line 590: Class vmbxt401.QSButton of control btnCopy was not a loaded control class.
+Line 611: Class vmbxt401.QSButton of control btnKill was not a loaded control class.
+Line 632: Class vmbxt401.QSButton of control btnVolume was not a loaded control class.
+Line 653: Class vmbxt401.QSButton of control btnMode was not a loaded control class.
+Line 674: Class vmbxt401.QSButton of control BtnSetup was not a loaded control class.
+Line 693: Class vmbxt401.QSButton of control btnRepeat was not a loaded control class.
+Line 714: Class vmbxt401.QSImgButton of control btnStop was not a loaded control class.
+Line 724: Class vmbxt401.QSImgButton of control btnPause was not a loaded control class.
+Line 734: Class vmbxt401.QSImgButton of control btnNext was not a loaded control class.
+Line 744: Class vmbxt401.QSImgButton of control btnPlay was not a loaded control class.
+Line 754: Class vmbxt401.QSImgButton of control btnPrev was not a loaded control class.
+Line 765: Class vmbxt401.QSButton of control btnReset was not a loaded control class.
+Line 785: Class vmbxt401.QSButton of control btnWindow was not a loaded control class.
+Line 804: Class vmbxt401.QSButton of control Command1 was not a loaded control class.
+Line 823: Class vmbxt401.QSButton of control btnExit was not a loaded control class.
+Line 959: Class vmbxt401.QSButton of control btnMinimize was not a loaded control class.
+Line 979: Class vmbxt401.QSButton of control btnHide was not a loaded control class.
+Line 1060: Class vmbxt401.MTimer of control tmrStop was not a loaded control class.
+Line 1068: Class vmbxt401.MTimer of control tmrStart was not a loaded control class.
+Line 1159: Class vmbxt401.QSButton of control btnClear was not a loaded control class.
+Line 1179: Class vmbxt401.QSButton of control btnSelect was not a loaded control class.
+Line 1199: Class vmbxt401.QSButton of control btnDelete was not a loaded control class.
+Line 1219: Class vmbxt401.QSButton of control btnAdd was not a loaded control class.
+Line 1239: Class vmbxt401.QSButton of control btnLoad was not a loaded control class.
+Line 1259: Class vmbxt401.QSButton of control btnSave was not a loaded control class.
+Line 1279: Class vmbxt401.QSButton of control btnFind was not a loaded control class.
+Line 1299: Class vmbxt401.QSButton of control btnRNDSort was not a loaded control class.
+Line 17: Property Icon in wndMain had an invalid file reference.
+Line 61: The property name _ExtentX in cSysTray is invalid.
+Line 62: The property name _ExtentY in cSysTray is invalid.
+Line 63: The property name InTray in cSysTray is invalid.
+Line 64: The property name TrayIcon in cSysTray is invalid.
+Line 65: The property name TrayTip in cSysTray is invalid.
+Line 116: The property name _ExtentX in tmtLen is invalid.
+Line 117: The property name _ExtentY in tmtLen is invalid.
+Line 125: The property name _ExtentX in tmtPos is invalid.
+Line 126: The property name _ExtentY in tmtPos is invalid.
+Line 133: The property name _ExtentX in tmLen is invalid.
+Line 134: The property name _ExtentY in tmLen is invalid.
+Line 141: The property name _ExtentX in tmPos is invalid.
+Line 142: The property name _ExtentY in tmPos is invalid.
+Line 150: The property name _ExtentX in tmClock is invalid.
+Line 151: The property name _ExtentY in tmClock is invalid.
+Line 303: Property Picture in Model had an invalid file reference.
+Line 470: The property name _ExtentX in tubMeters is invalid.
+Line 471: The property name _ExtentY in tubMeters is invalid.
+Line 472: The property name Caption in tubMeters is invalid.
+Line 482: Property FontSize in tubMeters had an invalid value.
+Line 490: The property name _ExtentX in VU1 is invalid.
+Line 491: The property name _ExtentY in VU1 is invalid.
+Line 501: The property name _ExtentX in VUMG1 is invalid.
+Line 502: The property name _ExtentY in VUMG1 is invalid.
+Line 522: The property name _ExtentX in VUMG1 is invalid.
+Line 523: The property name _ExtentY in VUMG1 is invalid.
+Line 575: The property name _ExtentX in btnExplore is invalid.
+Line 576: The property name _ExtentY in btnExplore is invalid.
+Line 578: The property name Caption in btnExplore is invalid.
+Line 588: Property FontSize in btnExplore had an invalid value.
+Line 595: The property name _ExtentX in btnCopy is invalid.
+Line 596: The property name _ExtentY in btnCopy is invalid.
+Line 598: The property name Caption in btnCopy is invalid.
+Line 608: Property FontSize in btnCopy had an invalid value.
+Line 617: The property name _ExtentX in btnKill is invalid.
+Line 618: The property name _ExtentY in btnKill is invalid.
+Line 620: The property name Caption in btnKill is invalid.
+Line 630: Property FontSize in btnKill had an invalid value.
+Line 637: The property name _ExtentX in btnVolume is invalid.
+Line 638: The property name _ExtentY in btnVolume is invalid.
+Line 640: The property name Caption in btnVolume is invalid.
+Line 650: Property FontSize in btnVolume had an invalid value.
+Line 658: The property name _ExtentX in btnMode is invalid.
+Line 659: The property name _ExtentY in btnMode is invalid.
+Line 661: The property name Caption in btnMode is invalid.
+Line 671: Property FontSize in btnMode had an invalid value.
+Line 679: The property name _ExtentX in BtnSetup is invalid.
+Line 680: The property name _ExtentY in BtnSetup is invalid.
+Line 681: The property name Caption in BtnSetup is invalid.
+Line 691: Property FontSize in BtnSetup had an invalid value.
+Line 698: The property name _ExtentX in btnRepeat is invalid.
+Line 699: The property name _ExtentY in btnRepeat is invalid.
+Line 701: The property name Caption in btnRepeat is invalid.
+Line 711: Property FontSize in btnRepeat had an invalid value.
+Line 719: The property name _ExtentX in btnStop is invalid.
+Line 720: The property name _ExtentY in btnStop is invalid.
+Line 721: Property Picture in btnStop had an invalid file reference.
+Line 729: The property name _ExtentX in btnPause is invalid.
+Line 730: The property name _ExtentY in btnPause is invalid.
+Line 731: Property Picture in btnPause had an invalid file reference.
+Line 739: The property name _ExtentX in btnNext is invalid.
+Line 740: The property name _ExtentY in btnNext is invalid.
+Line 741: Property Picture in btnNext had an invalid file reference.
+Line 749: The property name _ExtentX in btnPlay is invalid.
+Line 750: The property name _ExtentY in btnPlay is invalid.
+Line 751: Property Picture in btnPlay had an invalid file reference.
+Line 760: The property name _ExtentX in btnPrev is invalid.
+Line 761: The property name _ExtentY in btnPrev is invalid.
+Line 762: Property Picture in btnPrev had an invalid file reference.
+Line 770: The property name _ExtentX in btnReset is invalid.
+Line 771: The property name _ExtentY in btnReset is invalid.
+Line 773: The property name Caption in btnReset is invalid.
+Line 783: Property FontSize in btnReset had an invalid value.
+Line 790: The property name _ExtentX in btnWindow is invalid.
+Line 791: The property name _ExtentY in btnWindow is invalid.
+Line 792: The property name Caption in btnWindow is invalid.
+Line 802: Property FontSize in btnWindow had an invalid value.
+Line 809: The property name _ExtentX in Command1 is invalid.
+Line 810: The property name _ExtentY in Command1 is invalid.
+Line 811: The property name Caption in Command1 is invalid.
+Line 821: Property FontSize in Command1 had an invalid value.
+Line 828: The property name _ExtentX in btnExit is invalid.
+Line 829: The property name _ExtentY in btnExit is invalid.
+Line 830: The property name Caption in btnExit is invalid.
+Line 840: Property FontSize in btnExit had an invalid value.
+Line 964: The property name _ExtentX in btnMinimize is invalid.
+Line 965: The property name _ExtentY in btnMinimize is invalid.
+Line 966: The property name Caption in btnMinimize is invalid.
+Line 977: Property FontSize in btnMinimize had an invalid value.
+Line 984: The property name _ExtentX in btnHide is invalid.
+Line 985: The property name _ExtentY in btnHide is invalid.
+Line 986: The property name Caption in btnHide is invalid.
+Line 997: Property FontSize in btnHide had an invalid value.
+Line 1065: The property name _ExtentX in tmrStop is invalid.
+Line 1066: The property name _ExtentY in tmrStop is invalid.
+Line 1073: The property name _ExtentX in tmrStart is invalid.
+Line 1074: The property name _ExtentY in tmrStart is invalid.
+Line 1164: The property name _ExtentX in btnClear is invalid.
+Line 1165: The property name _ExtentY in btnClear is invalid.
+Line 1167: The property name Caption in btnClear is invalid.
+Line 1177: Property FontSize in btnClear had an invalid value.
+Line 1184: The property name _ExtentX in btnSelect is invalid.
+Line 1185: The property name _ExtentY in btnSelect is invalid.
+Line 1187: The property name Caption in btnSelect is invalid.
+Line 1197: Property FontSize in btnSelect had an invalid value.
+Line 1204: The property name _ExtentX in btnDelete is invalid.
+Line 1205: The property name _ExtentY in btnDelete is invalid.
+Line 1207: The property name Caption in btnDelete is invalid.
+Line 1217: Property FontSize in btnDelete had an invalid value.
+Line 1224: The property name _ExtentX in btnAdd is invalid.
+Line 1225: The property name _ExtentY in btnAdd is invalid.
+Line 1227: The property name Caption in btnAdd is invalid.
+Line 1237: Property FontSize in btnAdd had an invalid value.
+Line 1244: The property name _ExtentX in btnLoad is invalid.
+Line 1245: The property name _ExtentY in btnLoad is invalid.
+Line 1247: The property name Caption in btnLoad is invalid.
+Line 1257: Property FontSize in btnLoad had an invalid value.
+Line 1264: The property name _ExtentX in btnSave is invalid.
+Line 1265: The property name _ExtentY in btnSave is invalid.
+Line 1267: The property name Caption in btnSave is invalid.
+Line 1277: Property FontSize in btnSave had an invalid value.
+Line 1284: The property name _ExtentX in btnFind is invalid.
+Line 1285: The property name _ExtentY in btnFind is invalid.
+Line 1287: The property name Caption in btnFind is invalid.
+Line 1297: Property FontSize in btnFind had an invalid value.
+Line 1304: The property name _ExtentX in btnRNDSort is invalid.
+Line 1305: The property name _ExtentY in btnRNDSort is invalid.
+Line 1307: The property name Caption in btnRNDSort is invalid.
+Line 1317: Property FontSize in btnRNDSort had an invalid value.
+Line 1322: Property Picture in gDown had an invalid file reference.
+Line 1331: Property Picture in gUp had an invalid file reference.
+Line 1361: Property ItemData in lstMain had an invalid file reference.
+Line 1363: Property List in lstMain had an invalid file reference.
+Line 1442: Property Picture in Modes had an invalid file reference.
+Line 1447: Property Picture in tblLogo had an invalid file reference.

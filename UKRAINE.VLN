@@ -1,0 +1,90 @@
+[QUADROSOFT MLS] - Українська
+
+[.:UKRAINIAN:.] - [~Properties~]
+
+MAKER:Створив
+CHECKER:Тестував
+FOR:для
+VERSION:Версія XT
+LOADING:Завантаження...
+REDTOP:Ну дуже чудовий плейєр!
+
+BTNADD:Додати
+BTNADDTIP:Додати файлів до плейлисту
+
+BTNCLEAR:Очистити все
+BTNCLEARTIP:Очистити плейлист
+
+BTNCOPY:КОПІЮВАТИ
+BTNCOPYTIP:Копіювати виділені файли...
+
+BTNDELETE:Викреслити
+BTNDELETETIP:Викреслити файл із плейлиста
+
+BTNEXIT:Вихід
+BTNEXITTIP:Вихід з програми
+
+BTNFIND:Знайти...
+BTNFINDTIP:Пошук файла по зразку
+
+BTNKILL:ВИТЕРТИ ФАЙЛ З ДИСКУ
+
+BTNLOAD:Завантажити
+BTNLOADTIP:Завантажити плейлист з диска
+
+BTNMODE:ВИБІР
+BTNMODETIP:Вибір напрямку програвання (вниз по списку/вгору по списку)
+
+BTNREPEAT:ПОВТОР
+BTNREPEATTIP:Режим автоповтору (Викл/Зациклитись на одному файлі/Повторювати весь список)
+
+BTNSAVE:Зберегти
+BTNSAVETIP:Зберегти плейлист на диску
+
+BTNSELECT:Виділити все
+BTNSELECTTIP:Виділити всі файли в плейлисті
+
+BTNVOLUME:ГУЧНІСТЬ
+BTNVOLUMETIP:Запустити регуль гучності вінди
+
+BTNWINDOW:Табло 32
+BTNWINDOWTIP:Те й означає!
+
+ON/OFF:Таймер Вкл/Викл
+ON/OFFTIP:Активація/деАктивація таймера
+
+BTNPREVTIP:Попередній
+BTNPLAYTIP:Грати
+BTNNEXTTIP:Наступний
+BTNPAUSETIP:Зупинитися
+BTNSTOPTIP:Не грати
+
+LBLPROGTIMER:Програмування таймера
+LBLPROGTIMERTIP:І що ви сподівалися тут побачити?
+
+FORM_ADD:Додати файлів до плейлисту...
+COPY_TO:Копіювати файли
+CHECK3:Стирати оригінал після копіювання
+CHECK2:Переадресовувати файли після копіювання
+DSK_SPACE:Free disk space
+MK_DIR:Створити папку
+
+FILES+:Файли:
+DIRS+:Папки:
+
+[.:UKRAINIAN:.] - [~Messages~]
+
+VIDEO_ERROR:Ця програма працює лише на дисплеї 720x576 мінімум!
+NO_ACCESS: не має доступу!
+LOAD_ERROR:Помилки під час завантаження!
+CLEAR_PLAYLIST:Ви дійсно хочете обчистити плейлист?
+EXIT_PROGRAMM:Ви дійсно хочете вийти з програми?
+FIND_PATTERN:Введіть зразок для пошуку:
+SURE_DELETE:Ви дійсно хочете зтерти
+ERROR_DELETE:Помилка під час зтирання файлу!
+SURE_RESET:Ви дійсно хочете перезапустити програму?
+COPY_ERROR:Помилка під час копіювання файла. Продовжити?
+FINDING_HA:Це випадково не
+FINDING_HE:Нічого схожого більше немає!
+
+ADD_INTERNET:Sorry, this function is under construction. This function will be available only in the future versions of this programm!" + vbCrLf + vbCrLf + "Короче, функція буде можлива тільки після того, як у мене дома появиться інтернет ;-))

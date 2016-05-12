@@ -1,0 +1,89 @@
+[QUADROSOFT MLS] - English
+
+[.:ENGLISH:.] - [~Propert³es~]
+
+MAKER:Creater
+CHECKER:Tester
+FOR:for
+VERSION:Version XT
+LOADING:Loading...
+REDTOP:So very ®emarkable player!
+
+BTNADD:Add
+BTNADDTIP:Add files to playlist
+
+BTNCLEAR:Clear all 
+BTNCLEARTIP:Clear playlist
+
+BTNCOPY:COPY FILE
+BTNCOPYTIP:Copy chosen files...
+
+BTNDELETE:Remove
+BTNDELETET+:Remove file from playlist
+
+BTNEXIT:Exit
+BTNEXITTIP:Exit from program
+
+BTNFIND:Find...
+BTNFINDTIP:Find file by sample
+
+BTNKILL:KILL FILE FROM THE DISK
+BTNKILLTIP:!<RED> Wipe a file from the disk (not in to the recucle!) <RED>!
+
+BTNLOAD:Load
+BTNLOADTIP:Load playlist from disk
+
+BTNMODE:MODE
+BTNMODETIP:Direction mode (downwards on list/upwards on list)
+
+BTNREPEAT:REPEAT
+BTNREPEATTIP:Repeat mode (Off/will be Loop on one file/Repeat  the whole list)
+
+BTNRESET:Restart
+BTNRESETTIP:Restart program
+
+BTNSAVE:Save
+BTNSAVETIP:Save playlist on disk
+
+BTNSELECT:Select all
+BTNSELECTTIP:Select all files in playlist
+
+BTNVOLUME:VOLUME
+BTNVOLUMETIP:Launch volume regulator 
+
+BTNWINDOW:Table 32
+
+ON/OFF:Timer On/Off
+ON/OFFTIP:Activate/Deactivate timer
+
+BTNPREVTIP:Previous
+BTNPLAYTIP:Play
+BTNNEXTTIP:Next
+BTNPAUSETIP:Pause 
+BTNSTOPTIP:Stop
+
+LBLPROGTIMER:Timer programming
+LBLPROGTIMERTIP:And that you hoped to see here? ;)))
+
+FORM_ADD:Add files to playlist...
+COPY_TO:Copy files
+CHECK2:ReAddress the files after copying
+
+FILES+:Files:
+DIRS+:Folders:
+
+[.:ENGLISH:.] - [~Messages~]
+
+VIDEO_ERROR:This program works only on the display 720x576 minimum!
+NO_ACCESS: has no access!
+LOAD_ERROR:Errors found during load!
+CLEAR_PLAYLIST:Are you sure want to clear the playlist?
+EXIT_PROGRAMM:Are you sure want to exit from program?
+FIND_PATTERN:Enter the sample for the searching:
+SURE_DELETE:Are you sure want to remove
+ERROR_DELETE:Error during deleting the file!
+SURE_RESET:Are you really want to rerun the program?
+COPY_ERROR:Error during copying file. Continue?
+FINDING_HA:This is accidentally not
+FINDING_HE:Nothing similar more found!
+

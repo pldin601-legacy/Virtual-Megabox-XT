@@ -1,0 +1,48 @@
+Line 21: Class Project1.QSImgButton of control btnExit was not a loaded control class.
+Line 31: Class Project1.QSImgButton of control btnMinimize was not a loaded control class.
+Line 41: Class Project1.QSButton of control btHSpeed was not a loaded control class.
+Line 62: Class Project1.QSButton of control btNSpeed was not a loaded control class.
+Line 83: Class Project1.QSButton of control btnPlaylist was not a loaded control class.
+Line 103: Class Project1.QSImgButton of control btnEject was not a loaded control class.
+Line 113: Class Project1.QSImgButton of control btnNext was not a loaded control class.
+Line 123: Class Project1.QSImgButton of control btnStop was not a loaded control class.
+Line 133: Class Project1.QSImgButton of control btnPause was not a loaded control class.
+Line 143: Class Project1.QSImgButton of control btnPlay was not a loaded control class.
+Line 153: Class Project1.QSImgButton of control btnPrev was not a loaded control class.
+Line 195: Class Project1.QSButton of control btLSpeed was not a loaded control class.
+Line 26: The property name _ExtentX in btnExit is invalid.
+Line 27: The property name _ExtentY in btnExit is invalid.
+Line 21: Property Picture in btnExit could not be set.
+Line 36: The property name _ExtentX in btnMinimize is invalid.
+Line 37: The property name _ExtentY in btnMinimize is invalid.
+Line 31: Property Picture in btnMinimize could not be set.
+Line 46: The property name _ExtentX in btHSpeed is invalid.
+Line 47: The property name _ExtentY in btHSpeed is invalid.
+Line 49: The property name Caption in btHSpeed is invalid.
+Line 67: The property name _ExtentX in btNSpeed is invalid.
+Line 68: The property name _ExtentY in btNSpeed is invalid.
+Line 70: The property name Caption in btNSpeed is invalid.
+Line 88: The property name _ExtentX in btnPlaylist is invalid.
+Line 89: The property name _ExtentY in btnPlaylist is invalid.
+Line 91: The property name Caption in btnPlaylist is invalid.
+Line 108: The property name _ExtentX in btnEject is invalid.
+Line 109: The property name _ExtentY in btnEject is invalid.
+Line 103: Property Picture in btnEject could not be set.
+Line 118: The property name _ExtentX in btnNext is invalid.
+Line 119: The property name _ExtentY in btnNext is invalid.
+Line 113: Property Picture in btnNext could not be set.
+Line 128: The property name _ExtentX in btnStop is invalid.
+Line 129: The property name _ExtentY in btnStop is invalid.
+Line 123: Property Picture in btnStop could not be set.
+Line 138: The property name _ExtentX in btnPause is invalid.
+Line 139: The property name _ExtentY in btnPause is invalid.
+Line 133: Property Picture in btnPause could not be set.
+Line 148: The property name _ExtentX in btnPlay is invalid.
+Line 149: The property name _ExtentY in btnPlay is invalid.
+Line 143: Property Picture in btnPlay could not be set.
+Line 158: The property name _ExtentX in btnPrev is invalid.
+Line 159: The property name _ExtentY in btnPrev is invalid.
+Line 153: Property Picture in btnPrev could not be set.
+Line 200: The property name _ExtentX in btLSpeed is invalid.
+Line 201: The property name _ExtentY in btLSpeed is invalid.
+Line 203: The property name Caption in btLSpeed is invalid.
